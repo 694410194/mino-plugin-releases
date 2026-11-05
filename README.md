@@ -12,3 +12,5 @@ dsh plugin --profile desktop add 下载的.tgz路径
 
 - 插件均派生自社区开源项目，原许可与署名随包保留在各自的 `LICENSE`、`NOTICE` 和 README 中。
 - Mino 桌面安装包不在这里，见 [mino-releases](https://github.com/694410194/mino-releases)。
+
+- 官网与桌面客户端下载：<https://mino.baby>
